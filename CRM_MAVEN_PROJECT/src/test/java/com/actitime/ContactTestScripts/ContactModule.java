@@ -23,7 +23,7 @@ public class ContactModule {
 	
 	@Test(groups = {"regression"})
 	public void deleteContact() {
-		System.out.println("modify Organisation");
+		System.out.println("delete Organisation");
 		
 		
 	}
